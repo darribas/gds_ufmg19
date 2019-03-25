@@ -1,5 +1,7 @@
 # Geographic Data Science in Python
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/darribas/gds_ufmg19/master)
+
 ## Description
 
 This course will introduce you to the nascent field of
