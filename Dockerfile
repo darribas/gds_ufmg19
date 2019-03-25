@@ -7,7 +7,7 @@ RUN rm -R work/
 COPY ./data ${HOME}/data
 COPY ./figs ${HOME}/figs
 COPY ./notebooks ${HOME}/notebooks
-COPY ./spec.md ${HOME}/spec.md
+COPY ./README.md ${HOME}/README.md
 COPY ./LICENSE ${HOME}/LICENSE
 # Fix permissions
 USER root
