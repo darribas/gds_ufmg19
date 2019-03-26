@@ -1,6 +1,6 @@
 # Geographic Data Science in Python
 
-<a src='https://mybinder.org/v2/gh/darribas/gds_ufmg19/master'><img src='https://mybinder.org/badge_logo.svg'/></a>
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/darribas/gds_ufmg19/master)
 
 ## Description
 
